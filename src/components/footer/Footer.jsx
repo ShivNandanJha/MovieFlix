@@ -45,7 +45,7 @@ const Footer = () => {
             </span>{" "}
           </a>
 
-          <a href="https://www.instagram.com/probably_shiv/" target="_blank">
+          <a href = "https://www.instagram.com/probably_shiv/" target = "_blank">
             {" "}
             <span className="icon">
               <FaInstagram />
