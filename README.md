@@ -8,13 +8,16 @@ Search: Search for movies by their title or keywords.
 Watch Trailer: Watch movie trailers directly on the app.
 Cast: See the cast members of each movie and their roles.
 Genres: Filter movies by different genres such as action, comedy, drama, and more.
-Technologies Used
+
+#Technologies Used
+
 ##Vite: A build tool that provides fast build times and instant server startup.
 ##React: A popular JavaScript library for building user interfaces.
 ##SCSS: A preprocessor scripting language that is used to generate CSS stylesheets.
 ##TMDB API: An API that provides movie data such as movie information, cast information, and trailers.
 
 #Getting Started
+
 To get started with MovieFlix, follow these steps:
 
 Clone the repository.
