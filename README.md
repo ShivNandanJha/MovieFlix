@@ -29,7 +29,9 @@ Clone the repository.
 Install dependencies by running npm install.
 Create a .env file in the root directory and add your TMDB API key.
 
-``REACT_APP_TMDB_API_KEY=<your TMDB API key>``
+```javascript
+VITE_APP_TMDB_API_KEY=<your TMDB API key>
+```
 Start the development server by running npm run dev.
 
 
